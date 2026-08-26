@@ -1,2 +1,1 @@
-# Ping-
-This repository contains a PNG image file uploaded to GitHub. The image is provided in PNG format and can be viewed or downloaded directly from the repository.
+This file contains a Cisco network ping configuration/test used to verify connectivity between network devices. It can be used for basic network troubleshooting and connectivity testing.
